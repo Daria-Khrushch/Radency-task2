@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/radency-task2/static/css/main.7ecb97a2.chunk.css",
+    "main.js": "/radency-task2/static/js/main.c620bd91.chunk.js",
+    "main.js.map": "/radency-task2/static/js/main.c620bd91.chunk.js.map",
+    "runtime-main.js": "/radency-task2/static/js/runtime-main.d4dbcafd.js",
+    "runtime-main.js.map": "/radency-task2/static/js/runtime-main.d4dbcafd.js.map",
+    "static/css/2.c79dbdbc.chunk.css": "/radency-task2/static/css/2.c79dbdbc.chunk.css",
+    "static/js/2.e19a2d31.chunk.js": "/radency-task2/static/js/2.e19a2d31.chunk.js",
+    "static/js/2.e19a2d31.chunk.js.map": "/radency-task2/static/js/2.e19a2d31.chunk.js.map",
+    "index.html": "/radency-task2/index.html",
+    "static/css/2.c79dbdbc.chunk.css.map": "/radency-task2/static/css/2.c79dbdbc.chunk.css.map",
+    "static/css/main.7ecb97a2.chunk.css.map": "/radency-task2/static/css/main.7ecb97a2.chunk.css.map",
+    "static/js/2.e19a2d31.chunk.js.LICENSE.txt": "/radency-task2/static/js/2.e19a2d31.chunk.js.LICENSE.txt",
+    "static/media/buy.68b073ad.svg": "/radency-task2/static/media/buy.68b073ad.svg",
+    "static/media/double-quotes-svgrepo-com.5e2003b5.svg": "/radency-task2/static/media/double-quotes-svgrepo-com.5e2003b5.svg",
+    "static/media/lamp.f18553b0.svg": "/radency-task2/static/media/lamp.f18553b0.svg",
+    "static/media/mind.5332d62e.svg": "/radency-task2/static/media/mind.5332d62e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4dbcafd.js",
+    "static/css/2.c79dbdbc.chunk.css",
+    "static/js/2.e19a2d31.chunk.js",
+    "static/css/main.7ecb97a2.chunk.css",
+    "static/js/main.c620bd91.chunk.js"
+  ]
+}
