@@ -1,6 +1,7 @@
 {
   "name": "radency-task2",
   "version": "0.1.0",
+  "homepage": "https://Daria-Khrushch.github.io/radency-task2/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
@@ -39,11 +40,17 @@
     "uuidv4": "^6.2.12",
     "web-vitals": "^1.1.2"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daria-Khrushch/radency-task2.git"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
